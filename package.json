@@ -2,7 +2,7 @@
   "name": "rose-prime-v2",
   "displayName": "Rose Prime v2",
   "description": "A extention of this theme https://marketplace.visualstudio.com/items?itemName=alphaQ1611.rose-prime-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
